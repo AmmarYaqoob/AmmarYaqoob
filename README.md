@@ -9,7 +9,7 @@ Currently learning **DevOps practices and Python**, and open to contributing to 
 ---
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/ammaryaqoob)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ammar-yaqoob-full-stack-developer/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/ammaryaqoob96)
 
 ---
@@ -40,10 +40,6 @@ Currently learning **DevOps practices and Python**, and open to contributing to 
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ammaryaqoob&theme=dark&hide_border=false)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ammaryaqoob&theme=dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ammaryaqoob&theme=dark&hide_border=false&layout=compact)
 
 ---
 
