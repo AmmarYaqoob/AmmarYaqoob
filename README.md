@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ammar
+# 👋 Hi, I’m Ammar Yaqoob
 
 Backend-focused Software Engineer working primarily on **fintech platforms**.  
 I build **scalable APIs, cloud-ready services, and automation tools** with a strong focus on simplicity, performance, and maintainability.
