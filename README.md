@@ -1,52 +1,168 @@
-# 👋 Hi, I’m Ammar Yaqoob
+<div align="center">
 
-Backend-focused Software Engineer working primarily on **fintech platforms**.  
-I build **scalable APIs, cloud-ready services, and automation tools** with a strong focus on simplicity, performance, and maintainability.
+# 👋 Hi, I'm Ammar Yaqoob
+### Backend Engineer | Node.js & AWS Specialist | Scalable Systems
 
-I enjoy working on systems that **scale cleanly without over-engineering**.  
-Currently learning **DevOps practices and Python**, and open to contributing to meaningful open-source projects.
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-6%2B%20Years-0077B5?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-10B981?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
+
+</div>
 
 ---
 
-## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ammar-yaqoob-full-stack-developer/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/ammaryaqoob96)
+## 💡 About Me
+
+Backend Engineer with experience building scalable APIs, serverless applications, and cloud-based systems using Node.js, TypeScript, and AWS.
+
+I’ve worked on platforms handling 200k+ API calls per day, improved SQL query performance, reduced frontend load times, and built CI/CD pipelines for automated deployments.
+
+I enjoy solving backend scaling problems, designing clean architectures, and building systems that are reliable and maintainable.
 
 ---
 
 ## 🛠 Tech Stack
 
-**Backend**
-- Node.js, TypeScript, JavaScript  
-- .NET / C#  
-- REST & GraphQL APIs  
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
 
-**Frontend**
-- Angular, Ionic  
-- HTML, CSS, TailwindCSS  
+### Programming language
+- Node.js
+- TypeScript
+- Express.js
+- REST APIs
+- Serverless Framework
 
-**Cloud & DevOps**
-- AWS  
-- Nginx, Apache  
-- CI/CD fundamentals  
+</td>
 
-**Databases**
-- MongoDB, DynamoDB  
-- MySQL, SQL Server, SQLite  
+<td width="33%" valign="top">
 
-**Tools**
-- Git, GitHub, Bitbucket  
-- NPM  
+### Cloud & DevOps
+- AWS Lambda
+- API Gateway
+- SQS
+- DynamoDB
+- ECS
+- Docker
+- GitHub Actions
+
+</td>
+
+<td width="33%" valign="top">
+
+### Databases
+- PostgreSQL
+- MySQL
+- MongoDB
+- Sequelize
+- TypeORM
+
+</td>
+</tr>
+
+<tr>
+<td width="33%" valign="top">
+
+### Architecture
+- Microservices
+- Event-Driven Systems
+- Serverless Architecture
+- Clean Architecture
+
+</td>
+
+<td width="33%" valign="top">
+
+### Tools
+- Git
+- Postman
+- Swagger
+- CloudWatch
+- Linux
+
+</td>
+
+<td width="33%" valign="top">
+
+### Frontend
+- React.js
+- Next.js
+- Tailwind CSS
+
+</td>
+</tr>
+</table>
 
 ---
 
+## 🚀 What I Work On
+
+- Scalable backend systems
+- Secure REST APIs
+- AWS serverless applications
+- CI/CD automation
+- SQL optimisation
+- Performance improvements
+- Cloud-native deployments
 
 ---
 
-## ⚡ Beyond Code
-Outside of work, I enjoy table tennis, traveling, reading, and card games.  
-I’m naturally collaborative and enjoy discussing ideas, systems, and problem-solving approaches.
+## 📌 Featured Projects
+
+### 🔹 Serverless Event Processing System
+Built an AWS serverless application using Lambda, API Gateway, SQS, and DynamoDB for asynchronous event processing.
+
+**Highlights**
+- Event-driven architecture
+- Queue-based processing
+- CloudWatch monitoring
+- CI/CD deployment pipeline
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=ammaryaqoob&icon=0&color=0)
+### 🔹 High Performance REST API
+Designed and optimised backend APIs handling large traffic volumes with improved query performance and response times.
+
+**Highlights**
+- Reduced SQL query execution time
+- JWT authentication
+- Scalable modular structure
+- Dockerised deployment
+
+---
+
+### 🔹 CI/CD Deployment Pipeline
+Created automated deployment workflows using GitHub Actions and Docker for staging and production environments.
+
+**Highlights**
+- Automated testing
+- ECS deployments
+- Environment-based workflows
+- Faster release cycles
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ammar-yaqoob-full-stack-developer/" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:ammarmuhammadyaqoob@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+*"Good backend systems are simple, scalable, and reliable."*
+
+</div>
